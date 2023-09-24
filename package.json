@@ -1,6 +1,6 @@
 {
   "name": "@mr-hooks/use-retry",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A hook for auto retrying asynchronous operations with a backoff strategy",
   "repository": "https://github.com/mr-hooks/use-retry",
   "exports": {
@@ -53,6 +53,6 @@
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
-    "react": "^18.2.0"
+    "react": ">=16.8.0"
   }
 }
