@@ -1,6 +1,6 @@
 {
   "name": "@mr-hooks/use-retry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hook for auto retrying asynchronous operations with a backoff strategy",
   "repository": "https://github.com/mr-hooks/use-retry",
   "exports": {
